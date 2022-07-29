@@ -1,0 +1,1 @@
+export const categories = [ 'all', 'react', 'nextjs', 'mixes', 'music', 'computer science', 'films', 'gaming', 'live', 'learning', 'sport', 'fashion & beau', 'podcasts', 'comedy', 'gyms', 'bollywood', 'crypto', 'coding', 'programming', 'cooking', 'mobile', 'eating' ];
